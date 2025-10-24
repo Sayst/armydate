@@ -1,4 +1,5 @@
 {
-  "night": "CAACAgIAAxkBAANnaPY0Ft9qH5Q1PJXwlHvC-6zMVDQAAr15AAJwvBBKmcPrcjffTs02BA",
-  "morning": "CAACAgIAAxkBAANraPY0JhkoftQI9KrSREiAcBcOPmEAAvh2AAJypVBIDqW5C6gRFYk2BA"
+  "night": "", #заменится автоматически
+  "morning": "" #заменится автоматически
+
 }
