@@ -12,11 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 STICKERS = (
-    "CAACAgIAAxkBAANlaPYz-1Iz3GiGiPvU5zy9VohulQ0AAhOBAAJb9xFKtj6msm2nzy82BA",
-    "CAACAgIAAxkBAANnaPY0Ft9qH5Q1PJXwlHvC-6zMVDQAAr15AAJwvBBKmcPrcjffTs02BA",
-    "CAACAgIAAxkBAANpaPY0Hv6oFoOjXl8OfspEPxtRwroAAv9_AAJvpRhK-bW5B06XFZo2BA",
-    "CAACAgIAAxkBAANraPY0JhkoftQI9KrSREiAcBcOPmEAAvh2AAJypVBIDqW5C6gRFYk2BA",
-    "CAACAgIAAxkBAANtaPY0MJGzlVKSkMsZocTxt26AudMAAl1-AALNgTFIp2dcmi_rkqA2BA",
+# айди стикеров
 )
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
