@@ -1,7 +1,7 @@
 ```markdown
 # 💕 ArmyDate v2.0
 
-> **Telegram Bot для поддержки и обратного о��счёта дней до дембеля**
+> **Telegram Bot для поддержки и обратного отсчёта дней до дембеля**
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue? style=flat-square&logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
